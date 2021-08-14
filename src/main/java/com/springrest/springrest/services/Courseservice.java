@@ -15,4 +15,4 @@ public interface Courseservice {
 	public Course deletecourse(long courseId);
 	public Course updatecourse(Course course);
 
-}
+}kya ji
